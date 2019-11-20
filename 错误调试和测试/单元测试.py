@@ -14,3 +14,9 @@ class Dict(dict):
     def __setattr__(self, key, value):
         self[key] = value
 
+
+
+#运行单元测试
+#一旦编写好单元测试，我们就可以运行单元测试。最简单的运行方式是在mydict_test.py的最后加上两行代码：
+
+#另一种方法是在命令行通过参数-m unittest直接运行单元测试： python -m unittest mydict_test
