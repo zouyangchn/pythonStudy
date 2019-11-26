@@ -19,3 +19,6 @@ u=os.path.splitext(s)
 
 print(t)
 print(u)
+
+#os.rename('test.text','text.text')
+#os.remove('text1.text')
