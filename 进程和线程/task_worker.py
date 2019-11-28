@@ -35,5 +35,4 @@ for i in range(10):
 print('worker exit.')
 
 if __name__=='__main__':
-
     pass;
